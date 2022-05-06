@@ -30,3 +30,7 @@ Website
 
 
 ![Screenshot (93)](https://user-images.githubusercontent.com/85350031/167126792-7334ee88-1516-43d6-a095-6c327afbc585.png)
+
+Presentation PPT link : https://docs.google.com/presentation/d/1nHQ2f_RiKI8_-qSeYlba0SCDR3I-ltzG/edit?usp=sharing&ouid=106181210741482713527&rtpof=true&sd=true
+
+Presentation video link : https://drive.google.com/file/d/1yW8vIpgzk9MW1S-dZJV-EwqGMkcmfxJo/view?usp=sharing
