@@ -36,3 +36,15 @@ Website
 Presentation PPT link : https://docs.google.com/presentation/d/1nHQ2f_RiKI8_-qSeYlba0SCDR3I-ltzG/edit?usp=sharing&ouid=106181210741482713527&rtpof=true&sd=true
 
 Presentation video link : https://drive.google.com/file/d/1yW8vIpgzk9MW1S-dZJV-EwqGMkcmfxJo/view?usp=sharing
+
+
+
+Contributors:
+Frontend UI         :  Anamika A                          
+                       Shuaib Muhammed T A   
+                       Joyal George 
+
+Presentation slides : Bincy Daniel
+
+Video               : Bonia Benny
+
